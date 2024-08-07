@@ -1,38 +1,35 @@
-.header {
+.header{
     display: grid;
     grid-template-columns: 250px auto 300px;
-    align-items: center;
+    align-items: center ;
     padding: 5px 20px;
     height: 60px;
     border-bottom: 1px solid #d3d3d3;
-  }
-  
-  .header__logo {
+}
+.header__logo{
     display: flex;
     align-items: center;
-  }
-  
-  .header__logo img {
+}
+.header__logo img{
     width: 50px;
-  }
-  
-  .header__logo span {
+}
+.header__logo span{
     font-size: 22px;
-    margin-left: 20px;
+    margin-left: 10px;
     color: gray;
-  }
-  
-  .header__search {
+}
+
+.header__search{
     display: flex;
     align-items: center;
     width: 720px;
     height: 25px;
-    background-color: rgb(233, 238, 246);
+    background-color: rgb(233,238,246);
     padding: 12px;
     border-radius: 23px;
-  }
-  
-  .header__search input {
+}
+
+.header__search input{
     background-color: transparent;
     border: 0;
     outline: 0;
@@ -40,30 +37,28 @@
     font-size: 16px;
     font-weight: 500;
     padding-left: 10px;
-  }
-  
-  .header__icons {
+}
+
+.header__icons{
     display: flex;
     align-items: center;
-    margin-left: 4px;
-  }
-  
-  .header__icons span {
+    margin-left: 44px;
+}
+.header__icons span{ 
     display: flex;
     align-items: center;
     margin-left: 20px;
     margin-right: 0px;
-  }
-  
-  .header__icons .material-icons {
+}
+.header__icons .material-icons{
     margin: 0px 20px;
-  }
-  
-  .header__icons .css-20bmp1-MuiSvgIcon-root {
-    margin: 0px 15px;
-  }
-  
-  .header__icons .account-icon-container {
+}
+
+.header__icons .css-20bmp1-MuiSvgIcon-root{
+    margin: 0px 15px
+}
+
+.header__icons .account-icon-container {
     position: relative;
     width: 40px;
     height: 40px;
@@ -100,6 +95,7 @@
   
     .header__logo span {
       font-size: 20px;
+      
     }
   }
   
