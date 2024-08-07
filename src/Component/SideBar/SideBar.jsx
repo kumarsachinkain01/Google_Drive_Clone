@@ -83,7 +83,7 @@ const SideBar = () => {
            <div className='sidebar'>
                <div className="sidebar_btn">
                    <button onClick={handleOpen}>
-                       <img src="./src/assets/plus-btn.png" alt="" />
+                       <img src="./src/assets/plus-btn.PNG" alt="" />
                        <span>New</span>
                    </button>
                </div>

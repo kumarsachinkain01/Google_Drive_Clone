@@ -11,7 +11,7 @@ const Header = ({ photoURL }) => {
   return (
     <div className='header'>
       <div className="header__logo">
-        <img src="./src/assets/logo.png" alt="Drive_logo" />
+        <img src="./src/assets/logo.PNG" alt="Drive_logo" />
         <span>Drive</span>
       </div>
       <div className="header__search">
