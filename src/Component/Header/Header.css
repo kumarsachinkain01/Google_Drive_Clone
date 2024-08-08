@@ -42,13 +42,12 @@
 .header__icons{
     display: flex;
     align-items: center;
-    margin-left: 44px;
+    gap: 15px;
 }
 .header__icons span{ 
     display: flex;
     align-items: center;
-    margin-left: 15px;
-    margin-right: 0px;
+    gap: 10px;
 }
 .header__icons .material-icons{
     margin: 0px 20px;
