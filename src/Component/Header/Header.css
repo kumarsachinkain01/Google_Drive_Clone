@@ -47,7 +47,7 @@
 .header__icons span{ 
     display: flex;
     align-items: center;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-right: 0px;
 }
 .header__icons .material-icons{
@@ -55,7 +55,7 @@
 }
 
 .header__icons .css-20bmp1-MuiSvgIcon-root{
-    margin: 0px 15px
+    margin: 0px 16px
 }
 
 .header__icons .account-icon-container {
