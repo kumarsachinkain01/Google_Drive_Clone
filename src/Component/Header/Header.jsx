@@ -11,7 +11,7 @@ const Header = ({ photoURL }) => {
   return (
     <div className='header'>
       <div className="header__logo">
-        <img src="\src\Component\Header\LOGO.png" alt="Drive_logo" />
+        <img src="https://logos-world.net/wp-content/uploads/2020/11/Google-Drive-Logo.png" alt="Drive_logo" className='heading-logo' />
         <span>Drive</span>
       </div>
       <div className="header__search">

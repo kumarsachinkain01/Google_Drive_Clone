@@ -32,7 +32,7 @@ const App = () => {
         </>
       ) : (
         <div className='loginWrap'>
-          <img src='src\Logo_Name.png' alt=' logo-image' className='login-image' />
+          <img src='https://upload.wikimedia.org/wikipedia/commons/f/fb/Google_Drive_-_New_Logo.png' alt=' logo-image' className='login-image' />
           <button onClick={signIn}>Login to Google Drive Clone</button>
         </div>
       )}
