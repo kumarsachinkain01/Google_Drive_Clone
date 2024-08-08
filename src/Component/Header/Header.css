@@ -49,14 +49,16 @@
 .header__icons span{ 
     display: flex;
     align-items: center;
-    gap: 20px;
-}   
+    gap: 30px;
+}
 .header__icons .material-icons{
     margin: 0px 20px;
+   
+   
 }
 
 .header__icons .css-20bmp1-MuiSvgIcon-root{
-    margin: 0px 15px
+    margin: 0px 20px
 }
 
 .header__icons .account-icon-container {
