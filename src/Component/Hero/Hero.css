@@ -100,7 +100,14 @@
     flex: 1;
     padding: 5px;
 }
+.detailsRow a{
+    text-decoration: none;
+    color: #757575;
+}
 
+.detailsRow a:hover{
+    color: black;
+}
 /* Icon within details row */
 .detailsRow p svg {
     font-size: 22px;
